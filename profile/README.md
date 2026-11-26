@@ -43,34 +43,7 @@ Dimpy Labs is an AI software company based in New Jersey. We design, build and r
 ---
 
 <div align="center">
-<sub>Dimpy Labs is the trade name of Sachdeva Ventures L.L.C., a New Jersey limited liability company. Founded in 2026 by Ethan Sachdeva.</sub>sub>
+<sub>Dimpy Labs is the trade name of Sachdeva Ventures L.L.C., a New Jersey limited liability company. Founded in 2026 by Ethan Sachdeva.</sub>
 <br />
-<sub><i>Better software for a better tomorrow.</i>i></sub>sub>
-</div>div>
-</sub></sub>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<sub><i>Better software for a better tomorrow.</i></sub>
+</div>
