@@ -14,7 +14,9 @@
 
 ### 👋 We build software people rely on every day
 
-Dimpy Labs is an AI software company based in New Jersey. We design, build and run our own products, and we put AI to work where it actually saves you time, and leave it out where it doesn't.
+Dimpy Labs is an AI software company building tools people actually use every day. Our first product, Dimpy, knows your semester and texts you first.
+
+Dimpy Labs is based in New Jersey. It was founded in 2026 by Ethan Sachdeva to build software people rely on every day, and to find better uses for AI along the way.
 
 <br />
 
@@ -27,7 +29,7 @@ Dimpy Labs is an AI software company based in New Jersey. We design, build and r
 
 <br />
 
-### 🧭 What we believe
+### 🧭 What we do
 
 - **Built for students.** Dimpy starts with college: classes, deadlines and exams.
 - **It comes to you.** Dimpy texts you first, so you never have to remember to check another app.
@@ -45,5 +47,5 @@ Dimpy Labs is an AI software company based in New Jersey. We design, build and r
 <div align="center">
 <sub>Dimpy Labs is the trade name of Sachdeva Ventures L.L.C., a New Jersey limited liability company. Founded in 2026 by Ethan Sachdeva.</sub>
 <br />
-<sub><i>Better software for a better tomorrow.</i></sub>
+<sub><i>Building better software for a better tomorrow.</i></sub>
 </div>
